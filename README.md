@@ -17,10 +17,10 @@
 ## The solution DocChARt
 * Innovative solution to efficiency of care
 * Use of portable augmented reality (AR) technology for:
- * Quick, secure viewing of unique relevant patient medical data linked to ID
- * Dynamic vital sign presentation
-  * Linked with bedside clinical devices
-  * Linked with medical alert systems
- * Viewing relevant medical history in real-time 
-  * Linked with electronic medical records, or manually inputted data
+  * Quick, secure viewing of unique relevant patient medical data linked to ID
+  * Dynamic vital sign presentation
+   * Linked with bedside clinical devices
+   * Linked with medical alert systems
+  * Viewing relevant medical history in real-time 
+   * Linked with electronic medical records, or manually inputted data
 * While easily accessible via smartphone, tablet or customised headset
