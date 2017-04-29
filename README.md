@@ -14,7 +14,7 @@
   * Average time ~8-9.5 minutes medical WR
   * Reduced to 6 min with electronic data printed for WR
   
-## The solution DocChARt
+## The solution: DocChARt
 * Innovative solution to efficiency of care
 * Use of portable augmented reality (AR) technology for:
   * Quick, secure viewing of unique relevant patient medical data linked to ID
@@ -48,4 +48,16 @@
    * Carried by clinicians
    * Secured by two factor authentication, intranet system linkage 
 
+## Conclusion
+* DocChARt: innovative new approach to improving clinical efficiency
+* Accessible real-time clinical information using adapted software + hardware
+* Secure, reliable, and verifiable
+* Not a replacement for medical care, but a valuable assistant
 
+
+## Contributors
+Dr Andrew Nguyen (Australia)
+Mr Diego Brown (US)
+Ms Jannah Mohdshaffie (Malaysia)
+Mr Liam Sorta (UK)
+Ms Wai Ching Lin (Singapore)
