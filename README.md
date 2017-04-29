@@ -26,6 +26,9 @@
     * Linked with electronic medical records, or manually inputted data
 * While easily accessible via smartphone, tablet or customised headset
 
+### Demo Preview
+![complete profile](https://cloud.githubusercontent.com/assets/19171147/25559743/9caae3d6-2d38-11e7-9a2d-a4df28416e43.png)
+
 ## Information included
 1) Patient identifier, demographics
 2) Observations/vital signs
