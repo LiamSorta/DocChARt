@@ -34,3 +34,18 @@
 * Secure, two factor verification for login by physician/treating clinician
 * Ability to access data via unique patient code
    * Portability of information
+   
+ ## What makes this different?
+* Ability
+   * Providing dynamic information quickly in real time
+* Efficiency 
+   * Potential to improve speed, reduce WR time, improve patient care, reduce length of stay
+* Portability
+   * Can use existing technology – patient labels for use
+   * Use of AR app on smartphone/tablet
+   * Headset battery standby of ~6 hours before recharge
+* Security
+   * Carried by clinicians
+   * Secured by two factor authentication, intranet system linkage 
+
+
