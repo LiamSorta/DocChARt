@@ -24,3 +24,13 @@
   * Viewing relevant medical history in real-time 
     * Linked with electronic medical records, or manually inputted data
 * While easily accessible via smartphone, tablet or customised headset
+
+## Information included
+1) Patient identifier, demographics
+2) Observations/vital signs
+   * Option to zoom to specific vitals, view trends
+3) Menu to zoom to relevant history, allergies, medications, bloods
+
+* Secure, two factor verification for login by physician/treating clinician
+* Ability to access data via unique patient code
+   * Portability of information
