@@ -12,7 +12,7 @@
   * Increasingly time-consuming (56% of ward round [WR] spent on paperwork, 18% on delays/interruptions)
 * Fernandes & Eneje report WR inefficiencies in note-taking
   * Noted time lost during WR loking for notes, writing medical issues, past medical history
-  * Average time ~8-9.5 minutes medical WR
+  * Average time ~8-9.5 minutes medical WR per patient
   * Reduced to 6 min with electronic data printed for WR
   
 ## The solution: DocChARt
