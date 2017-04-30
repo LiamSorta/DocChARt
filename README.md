@@ -7,11 +7,6 @@
 ![hololens-iphone](https://cloud.githubusercontent.com/assets/19171147/25560174/5da7f686-2d44-11e7-9b06-044e062174c5.png)
 
 
-
-###  Authors-Designers-Programmers:
-[Andrew, Diego, Jannah, Liam & Wai Ching]
-
-
 ## The problem
 * Current medical care is:
   * Inefficient (i.e. pagers)
@@ -64,8 +59,8 @@
 
 
 ## Contributors
-Dr Andrew Nguyen (Australia)
-Mr Diego Brown (US)
-Ms Jannah Mohdshaffie (Malaysia)
-Mr Liam Sorta (UK)
-Ms Wai Ching Lin (Singapore)
+- Dr Andrew Nguyen (Australia)
+- Mr Diego Brown (US)
+- Ms Jannah Mohdshaffie (Malaysia)
+- Mr Liam Sorta (UK)
+- Ms Wai Ching Lin (Singapore)
