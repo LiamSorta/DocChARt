@@ -9,6 +9,9 @@ public class FlickerNum : MonoBehaviour {
     float min, max;
 
     [SerializeField]
+    int fluxMax = 20;
+
+    [SerializeField]
     float minHack, maxHack;
 
     bool hack;
@@ -21,7 +24,7 @@ public class FlickerNum : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if((int)Random.Range(0f,20f) == 10) {
+        if((int)Random.Range(0f,fluxMax) == 10) {
             Change();
         }
 	}
