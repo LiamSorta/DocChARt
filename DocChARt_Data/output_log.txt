@@ -1,0 +1,98 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GPU (ID=0x134b)
+    Vendor:   NVIDIA
+    VRAM:     996 MB
+    Driver:   21.21.13.7667
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.720 seconds
+Platform assembly: C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Liam\Documents\GitHub\DocChARt\DocChARt_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 3000x2000 60Hz; virtual: 3000x2000 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.932617 ms
+Vuforia initialization successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2134 -> priority: 1 
+  Thread -> id: 47b4 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.397938 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 0.713297 ms (FindLiveObjects: 0.076945 ms CreateObjectMapping: 0.055794 ms MarkObjects: 0.556853 ms  DeleteObjects: 0.022974 ms)
+
+Trackable aaaa lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dataset DocChARt could not be loaded and cannot be activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating a Mono Camera Configuration (Check for reflection)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable aaaa lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
