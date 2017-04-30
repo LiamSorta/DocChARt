@@ -1,6 +1,7 @@
 ## Hackmed 2017 demonstration: 
 
 ![logo 2x](https://cloud.githubusercontent.com/assets/19171147/25559071/e99b4706-2d2b-11e7-853b-a516d8995f26.png)
+![hololens-iphone](https://cloud.githubusercontent.com/assets/19171147/25560132/54ca9c90-2d43-11e7-9c04-91374366aa07.png)
 
 ###  Authors-Designers-Programmers:
 [Andrew, Diego, Jannah, Liam & Wai Ching]
