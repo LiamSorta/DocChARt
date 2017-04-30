@@ -37,7 +37,7 @@
    * Option to zoom to specific vitals, view trends
 3) Menu to zoom to relevant history, allergies, medications, bloods
 
-* Secure, two factor verification for login by physician/treating clinician
+* Secure, two-factor verification for login by physician/treating clinician
 * Ability to access data via unique patient code
    * Portability of information
    
@@ -52,7 +52,7 @@
    * Headset battery standby of ~6 hours before recharge
 * Security
    * Carried by clinicians
-   * Secured by two factor authentication, intranet system linkage 
+   * Secured by two-factor authentication, intranet system linkage 
 
 ## Conclusion
 * DocChARt: innovative new approach to improving clinical efficiency
