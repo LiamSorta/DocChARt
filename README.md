@@ -68,6 +68,6 @@
 - Mr Liam Sorta (UK)
 - Ms Wai Ching Lin (Singapore)
 
-## Comming Soon...
+## Coming Soon...
 
 ![advertisment 2](https://cloud.githubusercontent.com/assets/19171147/25562369/44ecd700-2d7c-11e7-8ab6-c09563317ba0.png)
