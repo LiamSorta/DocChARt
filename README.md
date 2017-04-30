@@ -2,7 +2,6 @@
 
 ![logo 2x](https://cloud.githubusercontent.com/assets/19171147/25559071/e99b4706-2d2b-11e7-853b-a516d8995f26.png)
 
-![advertisment 2](https://cloud.githubusercontent.com/assets/19171147/25562369/44ecd700-2d7c-11e7-8ab6-c09563317ba0.png)
 
 # ScreenShot
 ![hololens-iphone](https://cloud.githubusercontent.com/assets/19171147/25560174/5da7f686-2d44-11e7-9b06-044e062174c5.png)
@@ -68,3 +67,7 @@
 - Ms Jannah Mohdshaffie (Malaysia)
 - Mr Liam Sorta (UK)
 - Ms Wai Ching Lin (Singapore)
+
+## Comming Soon...
+
+![advertisment 2](https://cloud.githubusercontent.com/assets/19171147/25562369/44ecd700-2d7c-11e7-8ab6-c09563317ba0.png)
